@@ -1,0 +1,1 @@
+Nesta pasta encontra-se os arquivos ipynb para realização da concatenação entre as bases de dados.
